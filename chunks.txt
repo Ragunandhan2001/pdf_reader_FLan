@@ -1,0 +1,49 @@
+RAGUNANDHAN P
+/envel⌢peragunandhanperumal@gmail.com ♂phone-alt6374722179 ὑ7My-Portfolio /linkedin-inLinkedIn
+/githubgithub.com/Ragunandhan
+Education
+KARP AGAM COLLEGE OF ENGINEERING
+MASTER OF COMPUTER APPLICATIONS
+Oct 2022 – May 2024
+◦ GPA: 8.3/10.0
+◦ Location: Coimbatore,India
+CP A COLLEGE OF AR TS AND SCIENCE
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+June 2019 – May 2022
+◦ GPA: 8.0/10.0
+◦ Location: Theni,India
+TMHNU.METRIC.HR.SEC.SCHOOL
+HIGHER SECONDARY SCHOOL CERTIFICATE
+July 2018 – April 2019
+
+◦ GPA: 7.3/10.0
+◦ Location: Theni,India
+TMHNU.METRIC.HR.SEC.SCHOOL
+SECONDARY SCHOOL LEA VING CERTIFICATE
+July 2016 – April 2017
+◦ GPA: 9.0/10.0
+◦ Location: Theni,India
+Technical Skills
+Languages: C, Java, Python, HTML, CSS, SQL, MYSQL, Javascript , Django,Flask,Bootstrap.
+T ools/IDE:VS-Code, Git, Github, PyCharm, Eclipse, DEV C++, MySQL Workbench.
+Experience
+UNIQ TECHNOLOGIES
+Python Developer
+Chennai, India
+May 2024–present
+◦ As a Python Developer at Uniq Technology, I was responsible for design
+ing, developing, and maintaining
+scalable applications and automation scripts using Python. My role involved building and integrating REST-
+ful APIs, working with databases such as MySQL, and ensuring code efficiency through optimization and
+debugging.
+Certifications
+◦ Certified by NPTEL in ”Problem Solving Through Programming in C” with Elite on Jul-Oct 2023.
+◦ Certified JAVA (Basic) by Hacker Rank.
+◦ “Employability Skill Development Training Programme” awarded by Tech Mahindra (Pride Classroom
+) on 2021-
+2022.
+Projects
+AUTOMA TIC CAR SAFETY IN TRAFFIC SIGN RECOGNITION US-
+ING CONVOLUTIONAL NEURAL NETWORKS
+PYTHON PROJECT
+LIVE VIDEO ANAL YSIS FOR IDENTIFYING MASK IN HOSPIT ALS PYTHON PROJECT
